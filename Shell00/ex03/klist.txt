@@ -1,0 +1,6 @@
+Credentials cache: API:2B639DBA-2FDE-4AFE-B0A3-B8E2E415F157
+        Principal: pbrochar@42.FR
+
+  Issued                Expires               Principal
+Sep  7 10:11:37 2020  Sep 14 10:11:37 2020  krbtgt/42.FR@42.FR
+Sep  7 10:11:39 2020  Sep 14 10:11:37 2020  HTTP/student-storage-2.42.fr@42.FR
